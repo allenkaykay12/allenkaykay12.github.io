@@ -1,4 +1,6 @@
 main:
+  - title: "DLN"
+    url: /dln/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
