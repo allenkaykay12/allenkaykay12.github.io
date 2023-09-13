@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "A student at NYUAD from Rwanda."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
