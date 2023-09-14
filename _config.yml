@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Allen Kayesu"
   avatar : "/assets/images/cocomelon.jpeg"
-  bio    : "A student at NYUAD from Rwanda."
+  bio    : "A student at NYUAD pursuing a degree in computer science. I am passionate about exploring the intersection of technology and social impact."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
