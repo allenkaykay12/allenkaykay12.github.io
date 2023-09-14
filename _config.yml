@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Allen Kayesu"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "A student at NYUAD from Rwanda."
   links:
