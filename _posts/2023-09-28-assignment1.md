@@ -33,7 +33,7 @@ Technology has been a great tool for understanding different cultures through ac
 
  On the other hand, there are many other pieces of British culture with no views at all. Most of the least-viewed are those whose artists are not identified. The fact that the artist is not known often results in a lack of historical context and personal narratives that engage viewers. Without knowing the artist's background or intentions, it becomes harder to understand the meaning and significance behind the artwork. In addition to that, the absence of artist identification may contribute to a lack of recognition and appreciation for these pieces. Moreover, unlike the artwork discussed above, the least-viewed pieces do not have themes that are easily relatable or recognizable to the general public. This further hinders their ability to capture the attention and interest of viewers, as they may struggle to connect with or interpret the artwork. 
 
-**Warning Notice:** Some of the ideas mentioned above are mainly my own interpretation of the data from HAM and some are assumptions so our opions might vary depending on your own understanding.
+**Warning Notice:** Some of the ideas mentioned above are mainly my own interpretation of the data from HAM and some are based on assumptions so our opions might vary depending on your own understanding.
 {: .notice--warning}
 
 ## **Comparing Cultures**
