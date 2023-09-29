@@ -17,7 +17,8 @@ From this part of the class, it has been really interesting to see how technolog
 **Warning Notice:** Some of the ideas mentioned above are mainly my own interpretation of the data from HAM and some are assumptions so our opions might vary depending on your own understanding.
 {: .notice--warning}
 
-## **PART 2**
+## **Comparing Cultures**
+
 The three cultures that I will be comparing are the British, Spanish, and Byzantine cultures. By looking at the accession year of the art works from these cultures to the Harvard Art Museum, I will try to analyze what could have influenced the accession of the art pieces and how they reflect the unique characteristics of each culture. 
 
 <img src="/assets/images/counts.png" style="zoom:25%;" />
@@ -35,5 +36,6 @@ Another important thing that we could do with the information about these cultur
 
 From the exhibition timeline above, there was a relative increase in the number of exhibitions, which could perhaps be the reason why there was an increase in the acquisition of artwork during this time. Something that I found interesting is the fact that the number of artworks acquired from Spanish culture remained small compared to the other two cultures. Considering that Spanish artwork is popular, one would assume that there would be a higher demand for it during this time. Perhaps it might be the case that Spanish artwork was not as readily available or accessible at that time, leading to a smaller number of acquisitions. There is a huge peak in 1951 for the Byzantine culture; however, from my research, I was not able to identify a specific event that happened around that time that could have led to this huge acquisition of artwork from this culture since it is the only significant peak for the Byzantine culture from the stacked bar graph above. It is possible that it could have been philanthropy from wealthy individuals or institutions that contributed to the sudden increase in acquisitions. However, it is difficult to determine the exact cause without further evidence or historical records.
 
+## **WorldClouds and Interpretations**
 
 
