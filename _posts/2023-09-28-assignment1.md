@@ -33,7 +33,7 @@ Technology has been a great tool for understanding different cultures through ac
 
  On the other hand, there are many other pieces of British culture with no views at all. Most of the least-viewed are those whose artists are not identified. The fact that the artist is not known often results in a lack of historical context and personal narratives that engage viewers. Without knowing the artist's background or intentions, it becomes harder to understand the meaning and significance behind the artwork. In addition to that, the absence of artist identification may contribute to a lack of recognition and appreciation for these pieces. Moreover, unlike the artwork discussed above, the least-viewed pieces do not have themes that are easily relatable or recognizable to the general public. This further hinders their ability to capture the attention and interest of viewers, as they may struggle to connect with or interpret the artwork. 
 
-**Warning Notice:** Some of the ideas mentioned above are mainly my own interpretation of the data from HAM and some are based on assumptions so our opions might vary depending on your own understanding.
+**Warning Notice:** Some of the ideas mentioned above are mainly my own interpretation of the data from HAM and some are based on assumptions so our opinions might vary depending on your own understanding.
 {: .notice--warning}
 
 ## **Comparing Cultures**
@@ -45,7 +45,7 @@ The three cultures that I will be comparing are the **British**, **Spanish**, an
 From the histogram above, it is clear that there are more artworks from British culture compared to the Spanish and Byzantine cultures in the Harvard Art Museum. This suggests the presence of more British artwork in the Harvard Art Museum's collection. It was interesting to notice that there are more works of art from the Byzantine culture compared to the Spanish culture. The Byzantine Empire was what is now known as modern-day Turkey and Greece, and its rich artistic tradition has had a significant impact on the development of European art. This empire existed until 1453, but it is rather interesting to see that its artistic legacy still holds a prominent place in the Harvard Art Museum's collection. 
 However, looking at the wordcloud of different cultures that are represented at the museum, British and Byzantine cultures have almost the same level of representation by looking at the size and frequency of their respective words in the word cloud. Perhaps it is the fact that not all the objects are shown on the histogram. On requesting objects from the museum's website, some of the objects are lost, and thus, their representation may not be accurately reflected in the histogram. Therefore, it is important to consider different modes of analysis because, when working with such data, it is crucial to take into account potential limitations and biases that may affect the accuracy of the representation. Looking at the data using different figures is a good way to ensure a more comprehensive understanding of the museum's collection. 
 
-<img src="/assets/images/wordcloud.png" style="zoom:50%;"  style="width:50%" />
+<img src="/assets/images/wordcloud.png" style="zoom:50%;" />
 
 <img src="/assets/images/accession.png" style="zoom:50%;" />
 
