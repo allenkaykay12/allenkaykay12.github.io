@@ -48,12 +48,12 @@ The histogram above shows the number of items from three cultures present at the
 
 However, looking at the wordcloud of different cultures, the British and Byzantine cultures have almost the same level of representation when looking at the size of their names, which corresponds to the frequency of their art present in the museum's collection. Perhaps this is because not all objects are shown on the histogram. On requesting objects from the museum's website, some of the objects are lost, and thus, their representation may not be accurately reflected in the histogram. Therefore, it is important to consider different modes of analysis because, when working with such data, it is crucial to take into account potential limitations that may affect the accuracy of the representation. 
 
-**Warning Notice:** The Byzantine culture has 9844 objects however only 2974 objects are representd on the histogram.
+**Warning Notice:** The table below shows the actual objects of each culture.
+{: .notice--warning}
 |  Culture | Actual Objects | Objects on Histogram |
    |  British| 11130 | 8123 |
    |  Byzantine| 9844| 2974|
    |  Spanish| 1349 | 1155 |
-{: .notice--warning}
 
 <img src="/assets/images/accession.png" style="zoom:50%;" />
 
