@@ -68,6 +68,7 @@ In addition to that, we can use data from the three cultures above to study the 
 
 <img src="/assets/images/coins.png" style="zoom:50%;" />
 
+>Most of them are coins and Whittemore was made keeper of Byzantine coins at the Fogg Art Museum
 
 Another important thing that we could do with the information about these cultures is take a close look at their accession years and what factors could have led to the acquisition of more in some years and not others. By doing so, one would gain insights into the museum's collecting practices and some limitations that may hinder the representation of certain cultures in the collection. According to the stacked chart above, we notice a significant reduction in the acquisition of art from three cultures in recent years. However, there has been a consistent acquisition of artwork from Britain, even though in small numbers. This could be that either the museum has a stronger focus on collecting British art or that there is a greater availability of British artwork in the market. There is a peak in 1943, where 1244 art pieces of the total pieces acquired that year were from Britain. One of the reasons for this huge acquisition of British artwork in 1943 could be attributed to the historical context of World War II.  During this time, due to the threat from the Nazi occupation, different European countries sought to protect their artwork by sending it to safer places. Maybe British artists were looking for a place where they could sell their artwork and ensure its preservation during the war. 
 
