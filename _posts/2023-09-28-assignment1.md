@@ -43,11 +43,17 @@ Technology has been a great tool for understanding different cultures through ac
 <img src="/assets/images/histogram.png" style="zoom:50%;" />
 
 The histogram above shows the number of items from three cultures present at the HAM. It is clear that British culture has the highest number of art works in the museum compared to the Spanish and Byzantine cultures in the Harvard Art Museum. It was interesting to notice that there are more works of art from the Byzantine culture compared to the Spanish culture. The Byzantine Empire is now known as modern-day Turkey and Greece, and its rich artistic tradition has had a significant impact on the development of European art. This empire existed until 1453, but it is rather interesting to see that its artistic legacy still holds a prominent place in the Harvard Art Museum's collection. 
+
 <img src="/assets/images/wordcloud.png" style="zoom:50%;" />
 
-However, looking at the wordcloud of different cultures that are represented at the museum, British and Byzantine cultures have almost the same level of representation by looking at the size and frequency of their respective words in the word cloud. Perhaps it is the fact that not all the objects are shown on the histogram. On requesting objects from the museum's website, some of the objects are lost, and thus, their representation may not be accurately reflected in the histogram. Therefore, it is important to consider different modes of analysis because, when working with such data, it is crucial to take into account potential limitations and biases that may affect the accuracy of the representation. Looking at the data using different figures is a good way to ensure a more comprehensive understanding of the museum's collection. 
+However, looking at the wordcloud of different cultures, the British and Byzantine cultures have almost the same level of representation when looking at the size of their names, which corresponds to the frequency of their art present in the museum's collection. Perhaps this is because not all objects are shown on the histogram. On requesting objects from the museum's website, some of the objects are lost, and thus, their representation may not be accurately reflected in the histogram. Therefore, it is important to consider different modes of analysis because, when working with such data, it is crucial to take into account potential limitations that may affect the accuracy of the representation. 
 
+The Byzantine culture has 9844 objects however only 2974 objects are representd on the histogram.
 
+|  Culture | Actual Objects | Objects on Histogram |
+|  British| 11130 | 8123 |
+
+{: .notice--warning}
 
 <img src="/assets/images/accession.png" style="zoom:50%;" />
 
