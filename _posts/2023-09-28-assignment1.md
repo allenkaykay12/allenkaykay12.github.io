@@ -77,8 +77,14 @@ Grenville Lindall Winthrop, an American lawyer and art collector from New York C
 <img src="/assets/images/british.png" style="zoom:50%;" />
 
 
-
-
 ## **WorldClouds and Interpretations**
+
+<img src="/assets/images/byzantine.png" style="zoom:50%;" />
+
+<img src="/assets/images/britishW.png" style="zoom:50%;" />
+
+<img src="/assets/images/spanish.png" style="zoom:50%;" />
+
+
 
 
