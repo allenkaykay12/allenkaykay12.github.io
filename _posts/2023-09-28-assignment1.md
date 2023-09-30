@@ -40,13 +40,14 @@ Technology has been a great tool for understanding different cultures through ac
 
 > I will compare **British**, **Spanish**, and **Byzantine** cultures. By studying the data about accession years of art works from these cultures to the Harvard Art Museum, one can try to determine what impacted their acquisition and how it is related to the historical context of each culture. 
 
+
+The histogram below shows the number of items from three cultures present at the HAM. It is clear that British culture has the highest number of art works in the museum compared to the Spanish and Byzantine cultures in the Harvard Art Museum. It was interesting to notice that there are more works of art from the Byzantine culture compared to the Spanish culture. The Byzantine Empire is now known as modern-day Turkey and Greece, and its rich artistic tradition has had a significant impact on the development of European art. This empire existed until 1453, but it is rather interesting to see that its artistic legacy still holds a prominent place in the Harvard Art Museum's collection. 
+
 <img src="/assets/images/histogram.png" style="zoom:50%;" />
 
-The histogram above shows the number of items from three cultures present at the HAM. It is clear that British culture has the highest number of art works in the museum compared to the Spanish and Byzantine cultures in the Harvard Art Museum. It was interesting to notice that there are more works of art from the Byzantine culture compared to the Spanish culture. The Byzantine Empire is now known as modern-day Turkey and Greece, and its rich artistic tradition has had a significant impact on the development of European art. This empire existed until 1453, but it is rather interesting to see that its artistic legacy still holds a prominent place in the Harvard Art Museum's collection. 
-
-<img src="/assets/images/wordcloud.png" style="zoom:50%;" />
-
 However, looking at the wordcloud of different cultures, the British and Byzantine cultures have almost the same level of representation when looking at the size of their names, which corresponds to the frequency of their art present in the museum's collection. Perhaps this is because not all objects are shown on the histogram. On requesting objects from the museum's website, some of the objects are lost, and thus, their representation may not be accurately reflected in the histogram. Therefore, it is important to consider different modes of analysis because, when working with such data, it is crucial to take into account potential limitations that may affect the accuracy of the representation. 
+
+<img src="/assets/images/histogram.png" style="zoom:50%;" />
 
 **Warning Notice:** The table below shows the actual objects of each culture.
 {: .notice--warning}
