@@ -72,6 +72,12 @@ In addition to that, we can use data from the three cultures above to study the 
 
 Grenville Lindall Winthrop, an American lawyer and art collector from New York City, bequeathed the HAM a significant collection of British art in 1943, which is why the museum has a significant collection of British artwork from that year.  Most of the art works obtained that year include those from the famous British painter Edward Burne-Jones, whose works are prominently displayed in the museum. Winthrop owned most of Burnes-Jones' artwork. Winthrop bequeathed his art collection to the Fogg Art Museum at Harvard University, which he once attended. Click [here](https://shorturl.at/iHLU2) to read more about Sir Grenville L. Winthrop 
 
+> Here is a picture of some of the British culture objects that were acquired in 1943 
+
+<img src="/assets/images/british.png" style="zoom:50%;" />
+
+
+
 
 ## **WorldClouds and Interpretations**
 
