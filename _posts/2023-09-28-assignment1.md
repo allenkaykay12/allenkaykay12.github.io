@@ -40,6 +40,7 @@ Technology has been a great tool for understanding different cultures through ac
 
 > I will compare **British**, **Spanish**, and **Byzantine** cultures. By studying the data about accession years of art works from these cultures to the Harvard Art Museum, one can try to determine what impacted their acquisition and how it is related to the historical context of each culture. 
 
+**The Number Of Objects of Each Culture Present**
 
 The histogram below shows the number of items from three cultures present at the HAM. It is clear that British culture has the highest number of art works in the museum compared to the Spanish and Byzantine cultures in the Harvard Art Museum. It was interesting to notice that there are more works of art from the Byzantine culture compared to the Spanish culture. The Byzantine Empire is now known as modern-day Turkey and Greece, and its rich artistic tradition has had a significant impact on the development of European art. This empire existed until 1453, but it is rather interesting to see that its artistic legacy still holds a prominent place in the Harvard Art Museum's collection. 
 
@@ -47,7 +48,7 @@ The histogram below shows the number of items from three cultures present at the
 
 However, looking at the wordcloud of different cultures, the British and Byzantine cultures have almost the same level of representation when looking at the size of their names, which corresponds to the frequency of their art present in the museum's collection. Perhaps this is because not all objects are shown on the histogram. On requesting objects from the museum's website, some of the objects are lost, and thus, their representation may not be accurately reflected in the histogram. Therefore, it is important to consider different modes of analysis because, when working with such data, it is crucial to take into account potential limitations that may affect the accuracy of the representation. 
 
-<img src="/assets/images/histogram.png" style="zoom:50%;" />
+<img src="/assets/images/wordcloud.png" style="zoom:50%;" />
 
 **Warning Notice:** The table below shows the actual objects of each culture.
 {: .notice--warning}
@@ -57,9 +58,16 @@ However, looking at the wordcloud of different cultures, the British and Byzanti
 |  Byzantine|  9844|  2974|
 |  Spanish|  1349|  1155|
 
-
+**Accession Years of Objects**
 
 <img src="/assets/images/accession.png" style="zoom:50%;" />
+
+In addition to that, we can use data from the three cultures above to study the accession years of the objects from these cultures and how this is related to different historical events that occurred during those time periods. According to the stacked chart below, there has been a significant reduction in the acquisition of art from three cultures in recent years. However, there has been an acquisition of artwork from Britain in most years, even though the numbers are small. There was a huge peak in 1951 for the Byzantine culture; it was after the death of Thomas Whittemore, an American scholar and archeologist and founder of the Byzantine Institute of America. His major tasks involved the conservation, study, and documentation of Byzantine art and architecture. In 1934, Harvard University made him keeper of Byzantine coins and seals at the Fogg Art Museum for a year. In addition to that, Whittemore was born in Cambridge, Massachusetts, and studied at the Harvard Graduate School of Arts and Science. After his death, a lot of art was given to the Foggs Art Museum, which is one of the museums that comprise the HAM as his legacy.
+
+> Here is a picture of some of the Byzantine culture objects that were acquired in 1951
+
+<img src="/assets/images/coins.png" style="zoom:50%;" />
+
 
 Another important thing that we could do with the information about these cultures is take a close look at their accession years and what factors could have led to the acquisition of more in some years and not others. By doing so, one would gain insights into the museum's collecting practices and some limitations that may hinder the representation of certain cultures in the collection. According to the stacked chart above, we notice a significant reduction in the acquisition of art from three cultures in recent years. However, there has been a consistent acquisition of artwork from Britain, even though in small numbers. This could be that either the museum has a stronger focus on collecting British art or that there is a greater availability of British artwork in the market. There is a peak in 1943, where 1244 art pieces of the total pieces acquired that year were from Britain. One of the reasons for this huge acquisition of British artwork in 1943 could be attributed to the historical context of World War II.  During this time, due to the threat from the Nazi occupation, different European countries sought to protect their artwork by sending it to safer places. Maybe British artists were looking for a place where they could sell their artwork and ensure its preservation during the war. 
 
