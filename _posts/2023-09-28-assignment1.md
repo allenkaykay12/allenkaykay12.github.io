@@ -52,9 +52,9 @@ However, looking at the wordcloud of different cultures, the British and Byzanti
 {: .notice--warning}
 
 |  Culture | Actual Objects | Objects on Histogram | 
-|  British| 11130 | 8123 |
-|  Byzantine| 9844| 2974|
-|  Spanish| 1349| 1155|
+|  British|  11130 |  8123 |
+|  Byzantine|  9844|  2974|
+|  Spanish|  1349|  1155|
 
 
 
