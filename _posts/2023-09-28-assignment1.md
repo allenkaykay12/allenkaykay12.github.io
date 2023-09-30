@@ -51,9 +51,9 @@ However, looking at the wordcloud of different cultures, the British and Byzanti
 **Warning Notice:** The table below shows the actual objects of each culture.
 {: .notice--warning}
 |  Culture | Actual Objects | Objects on Histogram |
-   |  British| 11130 | 8123 |
-   |  Byzantine| 9844| 2974|
-   |  Spanish| 1349 | 1155 |
+|  British| 11130 | 8123 |
+|  Byzantine| 9844| 2974|
+|  Spanish| 1349 | 1155 |
 
 <img src="/assets/images/accession.png" style="zoom:50%;" />
 
