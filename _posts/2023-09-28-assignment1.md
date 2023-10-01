@@ -116,6 +116,10 @@ Grenville Lindall Winthrop, an American lawyer and art collector from New York C
 
 <img src="/assets/images/spanishII.png" style="zoom:50%;" />
 
+>Screeshots of results using different words from the wordcloud above
+<img src="/assets/images/barcelona.png" style="zoom:50%;" />
+<img src="/assets/images/child.png" style="zoom:50%;" />
+<img src="/assets/images/figure.png" style="zoom:50%;" />
 
 
 
