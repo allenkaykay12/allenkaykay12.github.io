@@ -80,6 +80,7 @@ Grenville Lindall Winthrop, an American lawyer and art collector from New York C
 ## **WorldClouds and Interpretations**
 
 >Initial wordcloud
+
 <img src="/assets/images/byzantine.png" style="zoom:50%;" />
 
 >New wordcloud with extra stopwords added to the list
@@ -94,18 +95,23 @@ Grenville Lindall Winthrop, an American lawyer and art collector from New York C
 <img src="/assets/images/bearded.png" style="zoom:50%;" />
 
 >Initial wordcloud
+
 <img src="/assets/images/britishW.png" style="zoom:50%;" />
 
 >New wordcloud with extra stopwords added to the list
+
 <img src="/assets/images/britishII.png" style="zoom:50%;" />
 
 >Screeshots of results using different words from the wordcloud above
+
 <img src="/assets/images/vessels.png" style="zoom:50%;" />
 
 >Initial wordcloud
+
 <img src="/assets/images/spanish.png" style="zoom:50%;" />
 
 >New wordcloud with extra stopwords added to the list
+
 <img src="/assets/images/spanishII.png" style="zoom:50%;" />
 
 
