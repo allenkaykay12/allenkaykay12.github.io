@@ -83,24 +83,6 @@ Grenville Lindall Winthrop, an American lawyer and art collector from New York C
 
 >Initial wordcloud
 
-<img src="/assets/images/byzantine.png" style="zoom:50%;" />
-
->New wordcloud with extra stopwords added to the list
-
-<img src="/assets/images/byzantineII.png" style="zoom:50%;" />
-
-For the Byzantine culture, it was very interesting to see that, by using different words from the word cloud above, the objects we obtain are almost the same. All of the objects I obtained were coins. This was rather surprising because a lot of the objects from this culture at the HAM are coins. It is fascinating to see how the keyword search on the HAM website accurately reflects the prominent artifacts of Byzantine culture. 
-
->Screeshots of results using different words from the wordcloud above
-
-<img src="/assets/images/follis.png" style="zoom:50%;" />
-<img src="/assets/images/justinian.png" style="zoom:50%;" />
-<img src="/assets/images/seal.png" style="zoom:50%;" />
-<img src="/assets/images/bearded.png" style="zoom:50%;" />
-
-
->Initial wordcloud
-
 <img src="/assets/images/spanish.png" style="zoom:50%;" />
 
 From this word cloud, the common words used in Spanish culture can be observed. Some of the prominent words include "woman," "man," "saint," and "letter." These words reflect the importance of gender roles and religion in Spanish culture. In addition to that, most of the titles have these words in them, which would suggest a higher frequency of these words on the word cloud.
@@ -119,11 +101,30 @@ With the addition of more stopwords, the resulting word cloud above starts to sh
 
 >Initial wordcloud
 
+<img src="/assets/images/byzantine.png" style="zoom:50%;" />
+
+>New wordcloud with extra stopwords added to the list
+
+<img src="/assets/images/byzantineII.png" style="zoom:50%;" />
+
+For the Byzantine culture, it was very interesting to see that, by using different words from the word cloud above, the objects we obtain are almost the same. All of the objects I obtained were coins. This was rather surprising because a lot of the objects from this culture at the HAM are coins. It is fascinating to see how the keyword search on the HAM website accurately reflects the prominent artifacts of Byzantine culture. 
+
+>Screeshots of results using different words from the wordcloud above
+
+<img src="/assets/images/follis.png" style="zoom:50%;" />
+<img src="/assets/images/justinian.png" style="zoom:50%;" />
+<img src="/assets/images/seal.png" style="zoom:50%;" />
+<img src="/assets/images/bearded.png" style="zoom:50%;" />
+
+>Initial wordcloud
+
 <img src="/assets/images/britishW.png" style="zoom:50%;" />
 
 >New wordcloud with extra stopwords added to the list
 
 <img src="/assets/images/britishII.png" style="zoom:50%;" />
+
+Same as the wordclouds above, using the keywords from the wordcloud, it is clear that the keyword used is in away related to the name of the object or the decription of the object on the website thus the increase in frequency of the words.
 
 >Screeshots of results using different words from the wordcloud above
 
