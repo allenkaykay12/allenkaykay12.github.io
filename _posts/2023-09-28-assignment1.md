@@ -79,6 +79,8 @@ Grenville Lindall Winthrop, an American lawyer and art collector from New York C
 
 ## **WorldClouds and Interpretations**
 
+>>The word clouds give us insights into the most commonly used words in the art of these three cultures. By analyzing these words one can try to link it to the cultural context to find out why these are important in that culture 
+
 >Initial wordcloud
 
 <img src="/assets/images/byzantine.png" style="zoom:50%;" />
