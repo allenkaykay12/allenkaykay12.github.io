@@ -112,13 +112,13 @@ Grenville Lindall Winthrop, an American lawyer and art collector from New York C
 
 <img src="/assets/images/spanish.png" style="zoom:50%;" />
 
-From this word cloud, the common words used in Spanish culture can be observed. Some of the prominent words include "woman," "man," "saint," and "letter." These words reflect the importance of gender roles and religion in Spanish culture. In addition to that, most of the titles have these words in them, which would suggest a higher frequency of these words on the wordcloud.
+From this word cloud, the common words used in Spanish culture can be observed. Some of the prominent words include "woman," "man," "saint," and "letter." These words reflect the importance of gender roles and religion in Spanish culture. In addition to that, most of the titles have these words in them, which would suggest a higher frequency of these words on the word cloud.
 
 >New wordcloud with extra stopwords added to the list
 
 <img src="/assets/images/spanishII.png" style="zoom:50%;" />
 
-With the addition of more stopwords, the resulting wordcloud above starts to show words that are more familiar, such as Barcelona. I tried to use the keywords presented above and search for some of the objects on the HAM website. The resulting pictures are very much related to the keyword I used in my search.
+With the addition of more stopwords, the resulting word cloud above starts to show words that are more familiar, such as Barcelona. I tried to use the keywords presented above and search for some of the objects on the HAM website. The resulting pictures are very much related to the keyword I used in my search.
 
 >Screeshots of results using different words from the wordcloud above
 
