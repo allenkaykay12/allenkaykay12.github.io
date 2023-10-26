@@ -33,7 +33,7 @@ The texts that I chose for this analysis are "Darkness Visible: A Memoir of Madn
 >Trends 
 
 <img src="/assets/images/western_trends.png" style="zoom:50%;" />
-<img src="/assets/images/africa_trends.png" style="zoom:50%;" />
+<img src="/assets/images/Africa_trends.png" style="zoom:50%;" />
 <img src="/assets/images/buddhist_trends.png" style="zoom:50%;" />
 
 
