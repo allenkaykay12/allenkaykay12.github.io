@@ -28,7 +28,7 @@ To study the relationship between emotions and cultures, I used voyant tools to 
 <img src="/assets/images/wordcloud_Africa.png" style="zoom:50%;" />
 <img src="/assets/images/wordcloud_buddhist.png" style="zoom:50%;" />
 
-*Analyzing the context of the words used.*
+## *Analyzing the context of the words used.*
 
 Text analysis tools provide us with great functionality for looking at the context in which words are used. This wouldn't be easy to do if we were to do the analysis manually. From the wordcloud, we saw that depression is viewed as an illness in Western and African cultures, but their approaches to treating it differ significantly. In Western cultures, medication and therapy are commonly used, while African cultures often rely on traditional healing practices. For African cultures, specifically the Black South Africans, they would frequently visit the traditional healers before visiting the medical doctor, according to this text. The Easterners, on the other hand, don't view depression as an illness. According to them, suffering is inherently a part of life and should be embraced rather than treated. They believe that experiencing hardships can lead to personal growth and spiritual enlightenment. Therefore, seeking professional help for depression is not as common as in Western and African cultures. For them, engaging in activities such as meditation or seeking guidance from spiritual leaders is considered more effective in dealing with depression.
 
