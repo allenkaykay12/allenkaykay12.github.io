@@ -21,7 +21,7 @@ The texts that I chose for this analysis are "Darkness Visible: A Memoir of Madn
 >Bubblines
 
 <img src="/assets/images/western.png" style="zoom:50%;" />
-<img src="/assets/images/africa.png" style="zoom:50%;" />
+<img src="/assets/images/Africa.png" style="zoom:50%;" />
 <img src="/assets/images/buddhist.png" style="zoom:50%;" />
 
 >Wordclouds
