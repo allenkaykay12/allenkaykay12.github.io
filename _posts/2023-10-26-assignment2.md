@@ -9,9 +9,7 @@ tags:
   - standard
 ---
 
-## Assignment 2 Fall 2023: Text Analysis
-
-## *Culture and Emotions*
+## Text Analysis: *Culture and Emotions*
 
 ## *Corpus choice and the motivation for my topic.*
 
