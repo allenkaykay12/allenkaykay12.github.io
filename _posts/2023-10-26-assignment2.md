@@ -42,6 +42,23 @@ Text analysis tools provide us with great functionality for looking at the conte
 <img src="/assets/images/meds_budd_1.png" style="zoom:50%;" />
 <img src="/assets/images/meds_budd_2.png" style="zoom:50%;" />
 
+In addition to that, the word depression appears in all three cultures; however, it is very important to note the differences in how it is understood and perceived by looking at the context in which it is used. In Western cultures, depression is often seen as a medical condition that requires medical intervention and treatment. In Western culture, depression is often described as a mood disorder. From the text, we can also see that Westerners think it is difficult to treat depression, unlike other diseases such as diabetes. This perception may stem from the belief that depression is caused by a combination of biological, psychological, and social factors. Although the method of treatment may vary, African cultures also recognize depression as a disease. In African cultures, depression is often viewed as a spiritual affliction, and traditional healers play a significant role in addressing the condition. The perception of depression in Buddhist societies is very different from that in Western cultures. In Buddhist societies, depression is often seen as a result of attachment and craving, and the focus is on achieving mindfulness to overcome it. It is not that people from these cultures are never unhappy, but rather they have different ways of understanding and addressing the condition. 
+
+>The screenshots below show how the word depression is used in the three cultures. We have Western, African and Easterners respectively.
+
+<img src="/assets/images/western_1.png" style="zoom:50%;" />
+<img src="/assets/images/western_2.png" style="zoom:50%;" />
+<img src="/assets/images/western_3.png" style="zoom:50%;" />
+
+<img src="/assets/images/Africa_1.png" style="zoom:50%;" />
+<img src="/assets/images/Africa_2.png" style="zoom:50%;" />
+<img src="/assets/images/Africa_3.png" style="zoom:50%;" />
+
+<img src="/assets/images/buddhist_1.png" style="zoom:50%;" />
+<img src="/assets/images/buddhist_2.png" style="zoom:50%;" />
+
+
+
 >Bubblines
 
 <img src="/assets/images/western.png" style="zoom:50%;" />
@@ -54,22 +71,6 @@ Text analysis tools provide us with great functionality for looking at the conte
 <img src="/assets/images/western_trends.png" style="zoom:50%;" />
 <img src="/assets/images/Africa_trends.png" style="zoom:50%;" />
 <img src="/assets/images/buddhist_trends.png" style="zoom:50%;" />
-
->Contexts
-
-<img src="/assets/images/western_1.png" style="zoom:50%;" />
-<img src="/assets/images/western_2.png" style="zoom:50%;" />
-<img src="/assets/images/western_3.png" style="zoom:50%;" />
-
-<img src="/assets/images/Africa_1.png" style="zoom:50%;" />
-<img src="/assets/images/Africa_2.png" style="zoom:50%;" />
-<img src="/assets/images/Africa_3.png" style="zoom:50%;" />
-
-<img src="/assets/images/buddhist_1.png" style="zoom:50%;" />
-<img src="/assets/images/buddhist_2.png" style="zoom:50%;" />
-<img src="/assets/images/buddhist_3.png" style="zoom:50%;" />
-
-
 
 >Distinctive words from the three cultures 
 
