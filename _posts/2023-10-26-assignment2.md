@@ -13,6 +13,8 @@ tags:
 
 ## *Culture and Emotions*
 
+## *Corpus choice and the motivation for my topic.*
+
 Text analysis is the process of examining and understanding written or spoken language to gain insights and extract meaning from it. It involves using various techniques and tools to analyze the structure, content, and context of a text. For the second assignment, I chose to focus on the relationship between human emotions and culture. By analyzing texts related to human emotions and culture, my aim was to look at how factors such as culture shape the way people experience and express their emotions. To study this relationship, I focused on how depression is perceived and treated in different cultures. My core class touched on the idea of how depression varies from culture to culture and how different cultural beliefs and practices can impact its manifestation and treatment. This sparked my interest in exploring the topic further. I believe that examining the role of culture in shaping perspectives on depression can contribute to the development of culturally sensitive interventions for individuals experiencing depression. 
 
 
