@@ -36,6 +36,20 @@ The texts that I chose for this analysis are "Darkness Visible: A Memoir of Madn
 <img src="/assets/images/Africa_trends.png" style="zoom:50%;" />
 <img src="/assets/images/buddhist_trends.png" style="zoom:50%;" />
 
+>Contexts
+
+<img src="/assets/images/western_1.png" style="zoom:50%;" />
+<img src="/assets/images/western_2.png" style="zoom:50%;" />
+<img src="/assets/images/western_3.png" style="zoom:50%;" />
+
+<img src="/assets/images/Africa_1.png" style="zoom:50%;" />
+<img src="/assets/images/Africa_2.png" style="zoom:50%;" />
+<img src="/assets/images/Africa_3.png" style="zoom:50%;" />
+
+<img src="/assets/images/buddhist_1.png" style="zoom:50%;" />
+<img src="/assets/images/buddhist_2.png" style="zoom:50%;" />
+<img src="/assets/images/buddhist_3.png" style="zoom:50%;" />
+
 
 
 
