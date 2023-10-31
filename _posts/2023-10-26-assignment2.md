@@ -26,7 +26,7 @@ The texts that I chose for this analysis are "Darkness Visible: A Memoir of Madn
 
 >Wordclouds
 
-<img src="/assets/images/wordcloud_Western.png" style="zoom:50%;" />
+<img src="/assets/images/wordcloud_West.png" style="zoom:50%;" />
 <img src="/assets/images/wordcloud_Africa.png" style="zoom:50%;" />
 <img src="/assets/images/wordcloud_buddhist.png" style="zoom:50%;" />
 
