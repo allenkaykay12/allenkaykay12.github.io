@@ -69,7 +69,12 @@ In addition to that, the word depression appears in all three cultures; however,
 <img src="/assets/images/Buddhist's.png" style="zoom:50%;" />
 
 
-## *Distinctive words from the three cultures* 
+## *Distinctive words from the three cultures*
+
+From all the analysis and interpretation of the data, it is clear that culture influences the way that people experience and think about emotions. In this part, I will then focus on identifying the most distinctive words in each culture's language for expressing emotions. In comparing the Western and African cultures, the use of the word depression seems to be common to both cultures. However, it was interesting to note that even though both cultures view depression as an illness, this word is more common in African culture compared to Western culture. This was interesting to me because it challenges the assumption that Western cultures perceive depression as an illness; thus, my assumption was that illness would be more common in Western culture. The word disease is commonly used in Western culture, and perhaps it could be that illness and disease are used interchangeably. Additionally, it could be the fact that the text from Western culture was smaller compared to the one from African culture, leading to a limited representation of the overall perception of depression in Western culture. 
+
+
+ 
 
 <img src="/assets/images/distinctivewords.png" style="zoom:50%;" />
 
