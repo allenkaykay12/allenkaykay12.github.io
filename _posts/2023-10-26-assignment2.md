@@ -58,15 +58,7 @@ In addition to that, the word depression appears in all three cultures; however,
 <img src="/assets/images/buddhist_2.png" style="zoom:50%;" />
 
 
-
->Bubblines
-
-<img src="/assets/images/western.png" style="zoom:50%;" />
-<img src="/assets/images/africa.png" style="zoom:50%;" />
-<img src="/assets/images/buddhist.png" style="zoom:50%;" />
-
-
->Trends 
+>Some visualizations
 
 <img src="/assets/images/western_trends.png" style="zoom:50%;" />
 <img src="/assets/images/Africa_trends.png" style="zoom:50%;" />
