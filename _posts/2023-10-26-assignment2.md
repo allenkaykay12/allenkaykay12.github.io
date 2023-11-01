@@ -64,6 +64,11 @@ In addition to that, the word depression appears in all three cultures; however,
 <img src="/assets/images/Africa_trends.png" style="zoom:50%;" />
 <img src="/assets/images/buddhist_trends.png" style="zoom:50%;" />
 
+<img src="/assets/images/western's.png" style="zoom:50%;" />
+<img src="/assets/images/African.png" style="zoom:50%;" />
+<img src="/assets/images/Buddhist's.png" style="zoom:50%;" />
+
+
 >Distinctive words from the three cultures 
 
 <img src="/assets/images/distinctivewords.png" style="zoom:50%;" />
