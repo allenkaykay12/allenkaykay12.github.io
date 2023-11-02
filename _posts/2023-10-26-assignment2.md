@@ -83,6 +83,15 @@ Looking at the plot of Western culture against Buddhist culture, it is clear tha
 
 <img src="/assets/images/distinctivewords.png" style="zoom:50%;" />
 
+>ChatGPT's response using the common words from the Westsern and Buddhist perspectives on depression 
+
+I wanted to check how easily ChatGPT would recognize the words from each culture and write a short newspaper story about depression to raise awareness. From the words I used, ChatGPT was able to recognize the difference in cultural perspectives on depression. It seamlessly incorporated medical terminology associated with depression, such as illness and hospital, when discussing the Western perspective. It is very fascinating to see that even AI can understand the diverse ways in which different cultures approach depression.
+
+Click on the [link]( https://shorturl.at/kFSV0) to read the responses.
+
+
+
+
 
 
 
