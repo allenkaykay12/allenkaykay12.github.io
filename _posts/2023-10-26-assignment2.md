@@ -30,6 +30,18 @@ To study the relationship between emotions and cultures, I used voyant tools to 
 <img src="/assets/images/wordcloud_Africa.png" style="zoom:50%;" />
 <img src="/assets/images/wordcloud_buddhist.png" style="zoom:50%;" />
 
+
+>Extra visualizations
+
+<img src="/assets/images/western_trends.png" style="zoom:50%;" />
+<img src="/assets/images/Africa_trends.png" style="zoom:50%;" />
+<img src="/assets/images/buddhist_trends.png" style="zoom:50%;" />
+
+<img src="/assets/images/western's.png" style="zoom:50%;" />
+<img src="/assets/images/African.png" style="zoom:50%;" />
+<img src="/assets/images/Buddhist's.png" style="zoom:50%;" />
+
+
 ## *Analyzing the context of the words used.*
 
 Text analysis tools provide us with great functionality for looking at the context in which words are used. This wouldn't be easy to do if we were to do the analysis manually. From the wordcloud, we saw that depression is viewed as an illness in Western and African cultures, but their approaches to treating it differ significantly. In Western cultures, medication and therapy are commonly used, while African cultures often rely on traditional healing practices. For African cultures, specifically the Black South Africans, they would frequently visit the traditional healers before visiting the medical doctor, according to this text. The Easterners, on the other hand, don't view depression as an illness. According to them, suffering is inherently a part of life and should be embraced rather than treated. They believe that experiencing hardships can lead to personal growth and spiritual enlightenment. Therefore, seeking professional help for depression is not as common as in Western and African cultures. For them, engaging in activities such as meditation or seeking guidance from spiritual leaders is considered more effective in dealing with depression.
@@ -58,17 +70,6 @@ In addition to that, the word depression appears in all three cultures; however,
 
 <img src="/assets/images/buddhist_1.png" style="zoom:50%;" />
 <img src="/assets/images/buddhist_2.png" style="zoom:50%;" />
-
-
->Some visualizations
-
-<img src="/assets/images/western_trends.png" style="zoom:50%;" />
-<img src="/assets/images/Africa_trends.png" style="zoom:50%;" />
-<img src="/assets/images/buddhist_trends.png" style="zoom:50%;" />
-
-<img src="/assets/images/western's.png" style="zoom:50%;" />
-<img src="/assets/images/African.png" style="zoom:50%;" />
-<img src="/assets/images/Buddhist's.png" style="zoom:50%;" />
 
 
 ## *Distinctive words from the three cultures*
