@@ -28,3 +28,6 @@ Since there is a lot of information available in the directory, I didn't do manu
 
 To enrich the data, I geocoded the data by converting the street addresses into geographic coordinates such as latitude and longitude. When I used the original addresses, there was a lot of missing data because some addresses were not recognized by the geocoder. To solve this problem, I used the **CONCATENATE** function in Google Sheets to add Brooklyn, New York, to the already existing addresses. This helped improve the geocoding accuracy and reduced the amount of missing data significantly. With concatenation, Geocoder was able to convert all the addresses into geographic coordinates successfully. This method allowed me to obtain accurate latitude and longitude values for each address, ensuring the reliability of my data analysis. 
 
+<img src="/assets/images/missing.png" style="zoom:50%;" />
+<img src="/assets/images/concat.png" style="zoom:50%;" />
+
