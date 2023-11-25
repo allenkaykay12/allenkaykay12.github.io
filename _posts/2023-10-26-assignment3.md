@@ -20,3 +20,6 @@ Since there is a lot of information available in the directory, I didn't do manu
 
 <img src="/assets/images/prompt.png" style="zoom:50%;" />
 <img src="/assets/images/response.png" style="zoom:50%;" />
+
+**Note:** *The snapshot above is just a small part not the entire CSV file*
+{: .notice--warning}
