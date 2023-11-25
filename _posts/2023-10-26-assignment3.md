@@ -23,3 +23,8 @@ Since there is a lot of information available in the directory, I didn't do manu
 
 **Note:** *The snapshot above is just a small part not the entire CSV file*
 {: .notice--warning}
+
+## Enriching Data: *GeoCoding*
+
+To enrich the data, I geocoded the data by converting the street addresses into geographic coordinates such as latitude and longitude. When I used the original addresses, there was a lot of missing data because some addresses were not recognized by the geocoder. To solve this problem, I used the **CONCATENATE** function in Google Sheets to add Brooklyn, New York, to the already existing addresses. This helped improve the geocoding accuracy and reduced the amount of missing data significantly.
+ 
