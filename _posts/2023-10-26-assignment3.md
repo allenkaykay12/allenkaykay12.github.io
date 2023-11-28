@@ -33,15 +33,19 @@ To enrich the data, I geocoded the data by converting the street addresses into 
 
 ## Data Visualization 
 
-For data visualization, I used [*Kepler.gl*](https://kepler.gl/), an online platform that allows one to create interactive maps and visualizations. I used Kepler.gl because it provides a user-friendly interface with various customization options, such as filters and layers, which makes it easier to study and understand the relationship between the geographic coordinates and other variables in my data. Something that was interesting is that there were three points in Australia, three in the UK, and one in Norway. This would mean that there was an error in the coordinates calculated by Geocode since Kepler uses coordinates and information from the CSV file. However, this was not the case; when I used the coordinates opened using Geocoder, I got an address in Brooklyn, and this was rather a surprising finding. If the search on Google Maps gives the correct location, why would Kepler show an incorrect address? 
+For data visualization, I used [*Kepler.gl*](https://kepler.gl/), an online platform that allows one to create interactive maps and visualizations. I used Kepler.gl because it provides a user-friendly interface with various customization options, such as filters and layers, which makes it easier to study and understand the relationship between the geographic coordinates and other variables in my data. 
 
-<img src="/assets/images/kepler.gl.png" style="zoom:50%"/>
+<img src="/assets/images/kepler.gl_general.png" style="zoom:50%"/>
 
 > The google map below shows the location of one of the points that was mapped in Australia, however by using the coordinates peovided I found that google map recognizes it as a place in Brooklyn and this is rather interesting. Why is it the the case that there is this mismatch?
 
 <img src="/assets/images/googleMap.png" style="zoom:50%"/>
 
 ## Gender and Professions in Brooklyn
+
+> Visual for the males and females
+
+<img src="/assets/images/kepler.gl_gender.png" style="zoom:50%"/>
 
 I also looked at gender distribution in relation to occupations and found that more men were in the work force compared to females. This could be due to various factors, such as societal norms, discrimination, or personal preferences. To get the gender of different people, I took their first names and asked ChatGPT to classify them into "male" and "female" based on common gender associations with names. The association was accurate because, had it been me, I would have done the same thing, just looking at the name and thinking about how many people I know who have such a name and whether they are male or female. When I used "occupations" and "gender" filters, most of the females who were shown on the map were mostly widows, with a few exceptions. It was interesting to note that for the widows, their husbands' names were put in brackets, but these women did not have any occupation that they did. This observation suggests that the association between names and gender was not only accurate but also reflective of societal norms during that time period. Additionally, it raises questions about the roles and identities of these widowed women in society, as their lack of occupation may indicate a dependence on their husbands' names for recognition or status. 
 
@@ -58,4 +62,6 @@ On the other hand, there was diversity in the kinds of jobs that men did. These 
 
 <img src="/assets/images/male.png" style="zoom:50%;" />
 
+> Classification: different jobs done 
 
+<img src="/assets/images/kepler.gl_jobs.png" style="zoom:50%"/>
