@@ -41,7 +41,9 @@ For data visualization, I used [**Kepler.gl**](https://kepler.gl/), an online pl
 
 <img src="/assets/images/googleMap.png" style="zoom:50%"/>
 
+## Gender and Professions in Brooklyn
 
+I also looked at gender distribution in relation to occupations and found that more men were in the work force compared to females. This could be due to various factors, such as societal norms, discrimination, or personal preferences. To get the gender of different people, I took their first names and asked ChatGPT to classify them into "male" and "female" based on common gender associations with names. The association was accurate because, had it been me, I would have done the same thing, just looking at the name and thinking about how many people I know who have such a name and whether they are male or female. When I used "occupations" and "gender" filters, most of the females who were shown on the map were mostly widows, with a few exceptions. It was interesting to note that for the widows, their husbands' names were put in brackets, but these women did not have any occupation that they did. This observation suggests that the association between names and gender was not only accurate but also reflective of societal norms during that time period. Additionally, it raises questions about the roles and identities of these widowed women in society, as their lack of occupation may indicate a dependence on their husbands' names for recognition or status. 
 
 <img src="/assets/images/male.png" style="zoom:50%;" />
 <img src="/assets/images/female.png" style="zoom:50%;" />
