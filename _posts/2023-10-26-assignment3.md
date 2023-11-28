@@ -31,7 +31,9 @@ To enrich the data, I geocoded the data by converting the street addresses into 
 <img src="/assets/images/missing.png" style="zoom:50%;" />
 <img src="/assets/images/concat.png" style="zoom:50%;" />
 
-<img src="/assets/{kepler.gl}.png" style="zoom:50%"/>
+## Data Visualization 
+
+<img src="/assets/images/kepler.gl.png" style="zoom:50%"/>
 
 <img src="/assets/images/male.png" style="zoom:50%;" />
 <img src="/assets/images/female.png" style="zoom:50%;" />
