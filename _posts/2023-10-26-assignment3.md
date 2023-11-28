@@ -33,7 +33,12 @@ To enrich the data, I geocoded the data by converting the street addresses into 
 
 ## Data Visualization 
 
+For data visualization, I used [Kepler.gl](https://kepler.gl/), an online platform that allows one to create interactive maps and visualizations. I used Kepler.gl because it provides a user-friendly interface with various customization options, such as filters and layers, which makes it easier to study and understand the relationship between the geographic coordinates and other variables in my data. Something that was interesting is that there were three points in Australia, three in the UK, and one in Norway. This would mean that there was an error in the coordinates calculated by Geocode since Kepler uses coordinates and information from the CSV file. However, this was not the case; when I used the coordinates opened using Geocoder, I got an address in Brooklyn, and this was rather a surprising finding. If the search on Google Maps gives the correct location, why would Kepler show an incorrect address? 
+
 <img src="/assets/images/kepler.gl.png" style="zoom:50%"/>
+<img src="/assets/images/googleMaps.png" style="zoom:50%"/>
+
+
 
 <img src="/assets/images/male.png" style="zoom:50%;" />
 <img src="/assets/images/female.png" style="zoom:50%;" />
