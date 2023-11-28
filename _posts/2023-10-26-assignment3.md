@@ -47,7 +47,12 @@ I also looked at gender distribution in relation to occupations and found that m
 
 <img src="/assets/images/promptG.png" style="zoom:50%;" />
 <img src="/assets/images/gender.png" style="zoom:50%;" />
+
+> Map that represents females and their occupations 
+
+<img src="/assets/images/female.png" style="zoom:50%;" />
+
+> Map that represents males and their occupations 
 <img src="/assets/images/male.png" style="zoom:50%;" />
 
 
-<img src="/assets/images/female.png" style="zoom:50%;" />
