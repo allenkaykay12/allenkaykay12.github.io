@@ -52,6 +52,8 @@ I also looked at gender distribution in relation to occupations and found that m
 
 <img src="/assets/images/female.png" style="zoom:50%;" />
 
+On the other hand, there was diversity in the kinds of jobs that men did. These activities ranged from drivers, cigars, grocers, lawyers, and so on. This diversity in occupations highlights the varied opportunities that were available to men during that time, giving them a chance to achieve social mobility as well as economic independence. This can also be supported by the fact that there is a higher representation of men in the directory book of businesses, indicating their active participation in the workforce. Even now, there is still a gender disparity in certain industries and occupations, with men often dominating fields such as engineering, technology, and finance. However, efforts are being made to promote gender equality and encourage women to pursue careers in traditionally male-dominated fields. So this representation of the ratio of males and females and the kinds of jobs from the 1879–1880 perspective is accurate in reflecting the historical gender dynamics of that time period. 
+
 > Map that represents males and their occupations 
 <img src="/assets/images/male.png" style="zoom:50%;" />
 
