@@ -37,9 +37,11 @@ For data visualization, I used [*Kepler.gl*](https://kepler.gl/), an online plat
 
 <img src="/assets/images/kepler.gl_general.png" style="zoom:50%"/>
 
-> The google map below shows the location of one of the points that was mapped in Australia, however by using the coordinates peovided I found that google map recognizes it as a place in Brooklyn and this is rather interesting. Why is it the the case that there is this mismatch?
+The picture above is a general representation of different occupations in Brooklyn, New York. The colors on the map represent different types of occupations, and each circle represents an individual. If the circles of the same color are close to each other, it indicates that individuals with similar occupations tend to cluster together geographically. However, this map visualization didn't give me a lot of information since there were too many occupations, and by compressing everything into 11 classifications, there wasn't much to learn about the specific types of occupations in Brooklyn. So I decided to further the occupations into different categories, such as food, law enforcement, wood, beauty, and so on. This further categorization allowed me to put together occupations that had similar skill sets or job requirements, giving me a better understanding of the specific industries present in Brooklyn. By analyzing these categories, I was able to identify patterns and trends within each industry, such as the concentration of food-related occupations in certain neighborhoods.
 
-<img src="/assets/images/googleMap.png" style="zoom:50%"/>
+>The map below represents the further classification of occupations 
+
+<img src="/assets/images/kepler.gl_occupation.png" style="zoom:50%"/>
 
 ## Gender and Professions in Brooklyn
 
