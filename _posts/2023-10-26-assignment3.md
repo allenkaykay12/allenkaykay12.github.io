@@ -47,24 +47,28 @@ From the map above, there is a clear cluster (yellow dots) of food-related occup
 
 ## Gender and Professions in Brooklyn
 
-> Visual for the males and females
+> Visual for both males and females
 
 <img src="/assets/images/kepler.gl_gender.png" style="zoom:50%"/>
 
+> Analysis
+
 I also looked at gender distribution in relation to occupations and found that more men were in the work force compared to females. This could be due to various factors, such as societal norms, discrimination, or personal preferences. To get the gender of different people, I took their first names and asked ChatGPT to classify them into "male" and "female" based on common gender associations with names. The association was accurate because, had it been me, I would have done the same thing, just looking at the name and thinking about how many people I know who have such a name and whether they are male or female. When I used "occupations" and "gender" filters, most of the females who were shown on the map were mostly widows, with a few exceptions. It was interesting to note that for the widows, their husbands' names were put in brackets, but these women did not have any occupation that they did. This observation suggests that the association between names and gender was not only accurate but also reflective of societal norms during that time period. Additionally, it raises questions about the roles and identities of these widowed women in society, as their lack of occupation may indicate a dependence on their husbands' names for recognition or status. 
+
+> Prompt to ChatGPT for classification into Female and Male
 
 <img src="/assets/images/promptG.png" style="zoom:50%;" />
 <img src="/assets/images/gender.png" style="zoom:50%;" />
 
 > Map that represents females and their occupations 
 
-<img src="/assets/images/female.png" style="zoom:50%;" />
+<img src="/assets/images/kepler.gl_female.png" style="zoom:50%;" />
 
 On the other hand, there was diversity in the kinds of jobs that men did. These activities ranged from drivers, cigars, grocers, lawyers, and so on. This diversity in occupations highlights the varied opportunities that were available to men during that time, giving them a chance to achieve social mobility as well as economic independence. This can also be supported by the fact that there is a higher representation of men in the directory book of businesses, indicating their active participation in the workforce. Even now, there is still a gender disparity in certain industries and occupations, with men often dominating fields such as engineering, technology, and finance. However, efforts are being made to promote gender equality and encourage women to pursue careers in traditionally male-dominated fields. So this representation of the ratio of males and females and the kinds of jobs from the 1879–1880 perspective is accurate in reflecting the historical gender dynamics of that time period. 
 
 > Map that represents males and their occupations 
 
-<img src="/assets/images/male.png" style="zoom:50%;" />
+<img src="/assets/images/kepler.gl_male.png" style="zoom:50%;" />
 
 > Classification: different jobs done 
 
