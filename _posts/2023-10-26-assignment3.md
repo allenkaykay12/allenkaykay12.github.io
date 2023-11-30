@@ -69,7 +69,3 @@ On the other hand, there was diversity in the kinds of jobs that men did. These 
 > Map that represents males and their occupations 
 
 <img src="/assets/images/kepler.gl_male.png" style="zoom:50%;" />
-
-> Classification: different jobs done 
-
-<img src="/assets/images/kepler.gl_jobs.png" style="zoom:50%"/>
