@@ -43,6 +43,8 @@ The picture above is a general representation of different occupations in Brookl
 
 <img src="/assets/images/kepler.gl_occupation.png" style="zoom:50%"/>
 
+From the map above, there is a clear cluster (yellow dots) of food-related occupations in the Williamsburg neighborhoods, which would suggest that there was a strong presence of restaurants, cafes, and other food establishments in that area. In addition to that, there are at least two law enforcement officers in each neighborhood. Law enforcement represents police and lawyers. Security being an important aspect of any community, the presence of law enforcement professionals in every neighborhood indicates a focus on maintaining safety and order. There is a distribution of widows throughout the map, indicating that there are households with single individuals in various neighborhoods. It is rather striking to notice that, for the widows, it is not clear what their occupations are but rather always associated with the names of their Late husbands. Overall, analyzing the skill sets and job requirements in Brooklyn provides valuable insights into the diverse industries and occupational clusters present in different areas of Brooklyn.
+
 ## Gender and Professions in Brooklyn
 
 > Visual for the males and females
