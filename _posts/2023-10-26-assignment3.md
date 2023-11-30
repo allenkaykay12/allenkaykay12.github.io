@@ -33,7 +33,7 @@ To enrich the data, I geocoded the data by converting the street addresses into 
 
 ## Data Visualization 
 
-For data visualization, I used [*Kepler.gl*](https://kepler.gl/), an online platform that allows one to create interactive maps and visualizations. I used Kepler.gl because it provides a user-friendly interface with various customization options, such as filters and layers, which makes it easier to study and understand the relationship between the geographic coordinates and other variables in my data. 
+For data visualization, I used [*Kepler.gl*](https://kepler.gl/), an online platform that allows one to create interactive maps and visualizations. I used Kepler.gl because it provides a user-friendly interface with various customization options, such as filters and layers, which makes it easier to study and understand the relationship between the geographic coordinates and other variables in the data. 
 
 <img src="/assets/images/kepler.gl_general.png" style="zoom:50%"/>
 
