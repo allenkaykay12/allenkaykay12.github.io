@@ -4,9 +4,8 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Assignment
+  
 ---
 
 ## Text Analysis: *Culture and Emotions*
