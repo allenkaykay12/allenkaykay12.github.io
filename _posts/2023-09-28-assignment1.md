@@ -4,9 +4,8 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Assignment
+  - Digital Literacy 
 ---
 
 ## Assignment 1 Fall 2023
