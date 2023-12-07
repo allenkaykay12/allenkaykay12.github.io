@@ -5,7 +5,7 @@ categories:
   - Blog
 tags:
   - Assignment
-  - Digital Literacy 
+  
 ---
 
 ## Assignment 1 Fall 2023
