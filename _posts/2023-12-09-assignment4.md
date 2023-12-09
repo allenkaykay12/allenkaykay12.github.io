@@ -19,13 +19,19 @@ In constructing the corpus for this assignment, I did research on different onli
 
 For image analysis, I used orange data mining software to study and understand how computer vision algorithms can classify and recognize different flower categories based on their visual features. I applied various algorithms, such as Inception, Painters, and SqueezeNet, and it was interesting to notice that different algorithms resulted in different clusters. This could perhaps be due to the fact that each algorithm has its own unique way of interpreting and extracting visual features from the flower images. 
 
-> Below are the image grids obtained using SqueezeNet, Inception, Painters, Deploc algorithms
+> Below are the image grids obtained using SqueezeNet, Inception, Deploc and Painters algorithms respectively
 
 <img src="/assets/images/image1.png" style="zoom:50%;" />
 <img src="/assets/images/image2.png" style="zoom:50%;" />
 <img src="/assets/images/image3.png" style="zoom:50%;" />
 <img src="/assets/images/painters.png" style="zoom:50%;" />
 
+By observing the results from clustering, we can note that all of the algorithms are clustering the images based on their colors. However, what is rather interesting is the fact that, for different algorithms, these clusters appear on different sides of the image grid.
+
+
+
 **OpenFace:** *When I tried using the OpenFace algorithm, all the images were skipped since this algorithm is designned to work with faces.*
 {: .notice--warning}
 <img src="/assets/images/openFace.png" style="zoom:50%;" />
+
+
