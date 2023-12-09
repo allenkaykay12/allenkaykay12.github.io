@@ -23,10 +23,9 @@ For image analysis, I used orange data mining software to study and understand h
 
 <img src="/assets/images/image1.png" style="zoom:50%;" />
 <img src="/assets/images/image2.png" style="zoom:50%;" />
-<img src="/assets/images/painters.png" style="zoom:50%;" />
 <img src="/assets/images/image3.png" style="zoom:50%;" />
+<img src="/assets/images/painters.png" style="zoom:50%;" />
 
 **OpenFace:** *When I tried using the OpenFace algorithm, all the images were skipped since this algorithm is designned to work with faces.*
-<img src="/assets/images/openFace.png" style="zoom:50%;" />
-
 {: .notice--warning}
+<img src="/assets/images/openFace.png" style="zoom:50%;" />
