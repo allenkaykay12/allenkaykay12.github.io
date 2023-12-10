@@ -90,8 +90,19 @@ For the second part of the assignment, I took the large dataset that I had and j
 > Color classification 
 
 <img src="/assets/images/colorCM.png" style="zoom:50%;" />
+
+Firstly, I put the flowers into different groups depending on their colors, such as white, pink. In order to see how well the algorithm could differentiate the colors, I created a pink-purple subset that contained flowers that had both pink and purple colors. This allowed me to assess the algorithm's ability to accurately classify flowers based on their specific colors. I also had a subset of flowers that had traces of white on their petals. All the subsets had a fairly similar number of flowers. According to the confusion matrix that was generated, it was clear that the inception algorithm did a great job of accurately classifying the flowers based on their specific colors. The confusion matrix showed a high percentage of correct classifications for both the pink-purple and whitish subsets. Furthermore, the algorithm was able to clearly differentiate the white and whitish subsets, even though I thought it would pose a challenge to the algorithm. On the other hand, we can see that when it comes to pink flowers, the inception algorithm confused some of them with pink-purple and white flowers. Overall, the inception algorithm demonstrated strong performance in accurately classifying flower colors.
+
+
+**Color confusion** *The snapshot below shows the flowers in pink-pink purple and white-pink categories, respectively, which the algorithm confused.
+From the first picture, we can see that flowers have traces of both pink and purple, which is perhaps what made it difficult for the algorithm to accurately classify them. In the second picture, some flowers appear to be a mix of white and pink, which may have caused confusion for the algorithm. 
+*
+{: .notice--warning}
+
 <img src="/assets/images/pink:pinkpurple.png" style="zoom:50%;" />
 <img src="/assets/images/white:pink.png" style="zoom:50%;" />
+
+> Below is the image grid for this classification, and we can see flowers cluster depending on their color, with very few exceptions. For instance, on the far left, we observe two purple flowers in the whitish subset when all the other purple flowers are in the central part of the grid. 
 
 <img src="/assets/images/colorGrid.png" style="zoom:50%;" />
 <img src="/assets/images/colorcluster1.png" style="zoom:50%;" />
