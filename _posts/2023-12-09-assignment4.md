@@ -107,5 +107,15 @@ From the first picture, we can see that flowers have traces of both pink and pur
 <img src="/assets/images/colorGrid.png" style="zoom:50%;" />
 <img src="/assets/images/colorcluster1.png" style="zoom:50%;" />
 
+> SqueezeNet Algorithm Results 
+
+<img src="/assets/images/squeezeCM.png" style="zoom:50%;" />
+<img src="/assets/images/pink,purple.png" style="zoom:50%;" />
+
+<img src="/assets/images/squeezeGrid.png" style="zoom:50%;" />
+<img src="/assets/images/squeezecluster.png" style="zoom:50%;" />
+
+
+
 
 
