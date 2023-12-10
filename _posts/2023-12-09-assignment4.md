@@ -22,7 +22,7 @@ For image analysis, I used orange data mining software to study and understand h
 **Results:** *By observing the results from clustering, we can note that all of the algorithms are clustering the images based on their colors. However, what is rather interesting is the fact that, for different algorithms, these clusters appear on different sides of the image grid.*
 {: .notice--warning} 
 
-> Below are the image grids obtained using SqueezeNet, Inception, Deploc and Painters algorithms respectively
+> Image grid for SqueezeNet
 
 <img src="/assets/images/image1.png" style="zoom:50%;" />
 
@@ -37,7 +37,14 @@ The SqueezeNet algorithm seems to have used **color** as a primary feature for c
 
 <img src="/assets/images/cluster2.png" style="zoom:50%;" />
 
+> Image grid for inception 
+
 <img src="/assets/images/image2.png" style="zoom:50%;" />
+
+> Inception V3 Algorithm analysis
+
+The Inception algorithm seems to cluster based on the dominant colors of the flowers. The top row starts with flowers that are predominantly orange and red. As we move from left to right, there is a clear change in color. Across the grid, there is a mix of saturation levels and brightness, with both vibrant and lightly colored flowers scattered everywhere. Within each color cluster, there are variations in texture and pattern. For example, in the red and pink clusters, we can see flowers with both smooth and multi-layered petals grouped together. The bottom rows are primarily filled with yellow flowers. The sorting here seems to emphasize a different attribute since we can observe a mix of colors and different types of flowers being grouped together.
+
 <img src="/assets/images/image3.png" style="zoom:50%;" />
 <img src="/assets/images/painters.png" style="zoom:50%;" />
 
