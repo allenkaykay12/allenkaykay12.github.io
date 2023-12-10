@@ -61,6 +61,13 @@ Looking at the two image grids, we can see that for inception, the brighter colo
 
 <img src="/assets/images/image3.png" style="zoom:50%;" />
 
+> Clusters from the grid
+
+<img src="/assets/images/deploccluster.png" style="zoom:50%;" />
+<img src="/assets/images/deploccluster1.png" style="zoom:50%;" />
+<img src="/assets/images/deploccluster2.png" style="zoom:50%;" />
+
+
 > Image grid for Painters algorithm 
 
 <img src="/assets/images/painters.png" style="zoom:50%;" />
