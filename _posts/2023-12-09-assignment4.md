@@ -95,8 +95,7 @@ Firstly, I put the flowers into different groups depending on their colors, such
 
 
 **Color confusion** *The snapshot below shows the flowers in pink-pink purple and white-pink categories, respectively, which the algorithm confused.
-From the first picture, we can see that flowers have traces of both pink and purple, which is perhaps what made it difficult for the algorithm to accurately classify them. In the second picture, some flowers appear to be a mix of white and pink, which may have caused confusion for the algorithm. 
-*
+From the first picture, we can see that flowers have traces of both pink and purple, which is perhaps what made it difficult for the algorithm to accurately classify them. In the second picture, some flowers appear to be a mix of white and pink, which may have caused confusion for the algorithm.*
 {: .notice--warning}
 
 <img src="/assets/images/pink:pinkpurple.png" style="zoom:50%;" />
@@ -114,6 +113,8 @@ From the first picture, we can see that flowers have traces of both pink and pur
 
 <img src="/assets/images/squeezeGrid.png" style="zoom:50%;" />
 <img src="/assets/images/squeezecluster.png" style="zoom:50%;" />
+
+> Type classification 
 
 
 
