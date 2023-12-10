@@ -87,6 +87,14 @@ Looking at the two image grids, we can see that for inception, the brighter colo
 
 For the second part of the assignment, I took the large dataset that I had and just split it into smaller subsets based on the different flower categories, such as color, number of flowers in the image, and type of flower. The main aim of this exercise was to look at how easily the algorithm understood the classification that I was implementing. By analyzing the confusion matrix, I was able to evaluate the accuracy of the algorithm in correctly classifying the images.
 
+> Color classification 
+
+<img src="/assets/images/colorCM.png" style="zoom:50%;" />
+<img src="/assets/images/pink:pinkpurple.png" style="zoom:50%;" />
+<img src="/assets/images/white:pink.png" style="zoom:50%;" />
+
+<img src="/assets/images/colorGrid.png" style="zoom:50%;" />
+<img src="/assets/images/colorcluster1.png" style="zoom:50%;" />
 
 
 
