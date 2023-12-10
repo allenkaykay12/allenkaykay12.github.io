@@ -79,8 +79,6 @@ Looking at the two image grids, we can see that for inception, the brighter colo
 <img src="/assets/images/paintercluster2.png" style="zoom:50%;" />
 <img src="/assets/images/paintercluster3.png" style="zoom:50%;" />
 
-
-
 **OpenFace:** *When I tried using the OpenFace algorithm, all the images were skipped since this algorithm is designned to work with faces.*
 {: .notice--warning}
 <img src="/assets/images/openFace.png" style="zoom:50%;" />
