@@ -141,6 +141,23 @@ However, it was interesting to see that in the clustering process for both algor
 <img src="/assets/images/inceptiontypeGrid.png" style="zoom:50%;" />
 <img src="/assets/images/squeezetypeGrid.png" style="zoom:50%;" />
 
+> Number of flowers classification 
 
+> Confusion Matrices for inception and Squeeze algorithms respectively
 
+<img src="/assets/images/inceptionNumberCM.png" style="zoom:50%;" />
+<img src="/assets/images/squeezenumberCM.png" style="zoom:50%;" />
+
+> Some of the confusions that arose in inception and squeezeNet algorithms respectively
+
+<img src="/assets/images/1:2inceptionconf.png" style="zoom:50%;" />
+<img src="/assets/images/1:3inceptionconf.png" style="zoom:50%;" />
+
+<img src="/assets/images/1:3Squeezeconf.png" style="zoom:50%;" />
+<img src="/assets/images/2:3squeezeconf.png" style="zoom:50%;" />
+
+> Image Grid for Inception and SqueezeNet algorithms respectively
+
+<img src="/assets/images/inceptionnumberGrid.png" style="zoom:50%;" />
+<img src="/assets/images/squeezenumberGrid.png" style="zoom:50%;" />
 
