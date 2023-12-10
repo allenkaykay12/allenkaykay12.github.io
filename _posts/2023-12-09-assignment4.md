@@ -83,4 +83,6 @@ Looking at the two image grids, we can see that for inception, the brighter colo
 {: .notice--warning}
 <img src="/assets/images/openFace.png" style="zoom:50%;" />
 
+## Part2: Classification of Images
+
 
