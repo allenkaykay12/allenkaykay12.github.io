@@ -29,6 +29,7 @@ The SquuezeNet algorithm seems to have used **color** as a primary feature for c
 
 <img src="/assets/images/Hierachy1.png" style="zoom:50%;" />
 <img src="/assets/images/cluster1.png" style="zoom:50%;" />
+
 <img src="/assets/images/cluster2.png" style="zoom:50%;" />
 
 <img src="/assets/images/image2.png" style="zoom:50%;" />
