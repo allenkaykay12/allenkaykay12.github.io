@@ -116,6 +116,29 @@ From the first picture, we can see that flowers have traces of both pink and pur
 
 > Type classification 
 
+The second classification was based on the types of flowers, where I put the flowers into groups like morning glories, daisies, and sunflowers. I used the computer algorithm to see how accurately it could classify the images into their respective flower categories. I first used the inception algorithm and then the SqueezeNet algorithm to compare their performance in flower classification. 
+
+> Confusion Matrices
+
+<img src="/assets/images/typeSqueezeCM.png" style="zoom:50%;" />
+<img src="/assets/images/typeinceptionCM.png" style="zoom:50%;" />
+
+Both algorithms accurately classified the images into their respective flower categories, achieving a high accuracy rate. They both only confused one daisy flower for a sunflower, but overall, they performed exceptionally well. 
+
+<img src="/assets/images/daisy:sunflower.png" style="zoom:50%;" />
+<img src="/assets/images/sunflowerSqueeze.png" style="zoom:50%;" />
+
+However, it was interesting to see that in the clustering process for both algorithms, there were clusters that contained both daisies and sunflowers; however, in the classification process, this confusion was resolved. 
+
+> Confusion the clusters generated in the clustering process
+
+<img src="/assets/images/typecluster2conf.png" style="zoom:50%;" />
+<img src="/assets/images/squeezeconf.png" style="zoom:50%;" />
+
+> Image Grid for Inception and SqueezeNet algorithms respectively
+
+<img src="/assets/images/inceptiontypeGrid.png" style="zoom:50%;" />
+<img src="/assets/images/squeezetypeGrid.png" style="zoom:50%;" />
 
 
 
