@@ -161,3 +161,11 @@ However, it was interesting to see that in the clustering process for both algor
 <img src="/assets/images/inceptionnumberGrid.png" style="zoom:50%;" />
 <img src="/assets/images/squeezenumberGrid.png" style="zoom:50%;" />
 
+## Distant Viewing
+
+Throughout this assignment, all the concepts that were discussed in the book [**Distant Viewing: Computational Exploration of Digital Images**](https://rb.gy/n63hqn) became very apparent. As discussed in the book, the first step towards clustering and classifying images is annotation, which involves assigning labels based on identifiable features within the images, such as color, shape, texture, or the presence of specific objects. And this is what I did as well. In addition to that, this initial stage helped me make changes if need be to the dataset. Furthermore, I realized that image visualization is not a one-step process but rather a continuous and iterative one. The book emphasized the importance of experimenting with different visualization techniques and refining them based on the specific goals and requirements of the project. This iterative approach allowed me to gain deeper insights into the dataset and uncover patterns and relationships that were not initially apparent. 
+
+> The screenshot below represents the workflow for image analysis that was discussed in the book 
+
+<img src="/assets/images/distantViewing.png" style="zoom:50%;" />
+
