@@ -1,8 +1,7 @@
 ---
 title: "Post: Assignment 3"
 excerpt_separator: "<!--more-->"
-categories:
-  - Blog
+
 tags:
   - Assignment
   
