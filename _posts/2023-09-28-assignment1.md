@@ -1,5 +1,5 @@
 ---
-title: "Post: Assignment 1"
+title: "Havard Art Museum Assignment"
 excerpt_separator: "<!--more-->"
 
 tags:
@@ -7,7 +7,7 @@ tags:
   
 ---
 
-## Havard Art Museum Assignment 
+## Assignment 1 Fall 2023
 
 ## **Interesting Objects at HAM's Collection**
 The Harvard Art Museum [website](https://shorturl.at/amEO5) has an extensive collection of artwork from various time periods and cultures. On its website, there is a wide range of artwork to explore, including paintings, sculptures, photographs, and textiles. Below are some of the interesting pieces that I found particularly captivating. One of the pieces I liked was [*Love and Death* ](https://shorturl.at/nsMOV). Love attempting to protect death served as the inspiration for this painting. The painting shows a woman caring for her sick lover, symbolizing the powerful bond between love and mortality. This was interesting to reflect on because it highlights the complex emotions that can arise when love and death intersect. 
