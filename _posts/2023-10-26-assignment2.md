@@ -1,5 +1,5 @@
 ---
-title: "Post: Assignment 2"
+title: "Corpus Assignment"
 excerpt_separator: "<!--more-->"
 
 tags:
@@ -7,7 +7,7 @@ tags:
   
 ---
 
-## Text Analysis: *Culture and Emotions*
+## Text Analysis: Cross Cultural Texts about Depression
 
 ## *Corpus choice and the motivation for my topic.*
 
