@@ -1,5 +1,5 @@
 ---
-title: "Post: Assignment 3"
+title: "Spatial Assignment"
 excerpt_separator: "<!--more-->"
 
 tags:
