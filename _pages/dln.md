@@ -6,7 +6,7 @@ author_profile: false
 
 ## Digital Literacy Narrative Fall 2023
 
-Title: Navigating the Digital Wilderness: My Journey into Digital Humanities
+## Course Reflection
 
  As a 20-year-old university student, I embarked on a new academic adventure this semester: an introductory course in Digital Humanities. When I signed up for this class, I was desperate because I wanted a substitute for another class I was taking. I looked at the syllabus for Introduction to Digital Humanities, and it looked interesting, so that is how I decided to give it a try. I didn't know what to expect, but now, looking back and seeing how much I have learned, it has been a rewarding experience. Through the assignments done in this class, I have learned how to analyze and interpret large datasets and use data visualization techniques to study relationships. From this, I have gained a deeper understanding of how technology can enhance the way we understand the world around us. This narrative is a reflection of my journey in this course and what I have gained from it.
 
